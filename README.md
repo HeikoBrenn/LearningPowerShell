@@ -48,4 +48,7 @@ https://powershell.org/
 ### Damian Scoles Blog
 https://www.powershellgeek.com/
 
+### ScriptRunner PowerShell Blog
+https://www.scriptrunner.com/en/blog
+
 
