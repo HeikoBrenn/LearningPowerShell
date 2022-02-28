@@ -19,6 +19,8 @@ Here you find resources for learning and using PowerShell
 
 [Learning PowerShell in a Month of Lunches](https://www.manning.com/books/learn-windows-powershell-in-a-month-of-lunches-second-edition)
 
+[Learn PowerShell Scripting in a Month of Lunches](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches)
+
 [PowerShell Tutorial](https://mindmajix.com/powershell-tutorial)
 
 - ## Communities, Forums, User Groups, Blogs
