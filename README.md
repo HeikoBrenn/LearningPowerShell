@@ -1,5 +1,5 @@
 # Learning PowerShell
-Here you find resources for learning PowerShell
+Here you find resources for learning and using PowerShell
 
 - ## Video Resources
 [Getting started with PowerShell (Jeffrey Snover and Jason Helmick)](https://www.youtube.com/watch?v=nMn8-BbRsN8&list=PLyJiOytEPs4etH7Ujq7PU7jlOlHL-9RmV)
@@ -32,3 +32,8 @@ Here you find resources for learning PowerShell
 [ScriptRunner PowerShell Blog](https://www.scriptrunner.com/en/blog)
 
 [Slack PowerShell Community](https://powershell.slack.com/)
+
+[Research Triangle PowerShell User Group](https://www.meetup.com/Research-Triangle-PowerShell-Users-Group/)
+
+[New York PowerShell Meetup](https://www.meetup.com/NycPowershellMeetup/)
+
