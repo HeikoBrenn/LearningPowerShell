@@ -37,3 +37,5 @@ Here you find resources for learning and using PowerShell
 
 [New York PowerShell Meetup](https://www.meetup.com/NycPowershellMeetup/)
 
+[1.600 ready to use PowerShell scripts](https://github.com/scriptrunner/ActionPacks)
+
