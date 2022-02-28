@@ -15,6 +15,8 @@ Here you find resources for learning and using PowerShell
 - ## Readings, Documentations, Books
 [Introduction to PowerShell](https://docs.microsoft.com/en-us/learn/modules/introduction-to-powershell/)
 
+[PowerShell 101](https://docs.microsoft.com/en-us/powershell/scripting/learn/ps101/00-introduction?view=powershell-7.2)
+
 [Learning PowerShell in a Month of Lunches](https://www.manning.com/books/learn-windows-powershell-in-a-month-of-lunches-second-edition)
 
 - ## Communities, Forums, User Groups, Blogs
