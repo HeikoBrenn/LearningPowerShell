@@ -13,11 +13,10 @@ https://www.youtube.com/watch?v=CLolNWuICoM
 https://youtube.com/playlist?list=PL6D474E721138865A
 
 ### Highway To PowerShell
-
 https://www.youtube.com/playlist?list=PLjKVCo25i0an3dVaDNNVVTzd1wuK46UHv
 
-
-
+### Pluralsigth PowerShell Courses
+https://www.pluralsight.com/search?q=powershell&categories=all
 
 <br></br>
 - ## Readings, Documentations, Books
