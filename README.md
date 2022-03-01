@@ -14,6 +14,8 @@ Here you find resources for learning and using PowerShell
 
 [Learn PowerShell](https://www.youtube.com/playlist?list=PLCGGtLsUjhm2k22nFHHdupAK0hSNZVfXi)
 
+[Learn PowerShell (TechThoughts)[(https://www.youtube.com/watch?v=csuz7qSJv_Q&list=PL2j0_s2VJe2hzQuQyn6yfMS2olhhs4UnQ)
+
 - ## Readings, Documentations, Books
 [Introduction to PowerShell](https://docs.microsoft.com/en-us/learn/modules/introduction-to-powershell/)
 
