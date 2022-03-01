@@ -23,6 +23,8 @@ Here you find resources for learning and using PowerShell
 
 [PowerShell Tutorial](https://mindmajix.com/powershell-tutorial)
 
+[PowerShell books on Leanpub](https://leanpub.com/bookstore?type=all&search=powershell)
+
 - ## Communities, Forums, User Groups, Blogs
 
 [LinkedIn PowerShell Power Users](https://www.linkedin.com/groups/140856/)
