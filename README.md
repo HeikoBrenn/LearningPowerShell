@@ -51,5 +51,5 @@ Here you find resources for learning and using PowerShell
 
 [1.600 ready to use PowerShell scripts](https://github.com/scriptrunner/ActionPacks)
 
-[The PowerShell Gallery - Home of more than 6.000 PowerShell Modules](https://www.powershellgallery.com/)
+[The PowerShell Gallery - Home of more than 9.000 PowerShell Modules](https://www.powershellgallery.com/)
 
