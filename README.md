@@ -59,3 +59,5 @@ Just contact me on [Twitter.](https://twitter.com/HeikoBrenn)
 
 - ## PowerShell and Active Directory
 [10 tips for Active Directory administration with PowerShell](https://www.scriptrunner.com/en/blog/administer-active-directory-with-powershell/)
+
+[PowerShell and Active Directory Essentials (video)](https://www.youtube.com/watch?v=-zDXTLiX_wk) 
