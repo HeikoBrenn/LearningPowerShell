@@ -1,5 +1,9 @@
 # Learning PowerShell
-Here you find resources for learning and using PowerShell
+Here you find resources I find usefull for learning and using PowerShell.
+
+Let me know what resources helps you.
+
+Just contact me on [Twitter.](https://twitter.com/HeikoBrenn)
 
 - ## Video Resources
 💙 [Getting started with PowerShell (Jeffrey Snover and Jason Helmick)](https://www.youtube.com/watch?v=nMn8-BbRsN8&list=PLyJiOytEPs4etH7Ujq7PU7jlOlHL-9RmV)
@@ -53,3 +57,5 @@ Here you find resources for learning and using PowerShell
 
 [The PowerShell Gallery - Home of more than 9.000 PowerShell Modules](https://www.powershellgallery.com/)
 
+- ## PowerShell and Active Directory
+[10 tips for Active Directory administration with PowerShell](https://www.scriptrunner.com/en/blog/administer-active-directory-with-powershell/)
