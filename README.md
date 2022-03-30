@@ -33,6 +33,8 @@ Just contact me on [Twitter.](https://twitter.com/HeikoBrenn)
 
 [PowerShell books on Leanpub](https://leanpub.com/bookstore?type=all&search=powershell)
 
+[PowerShell by Example](https://powershellbyexample.dev/)
+
 - ## Communities, Forums, User Groups, Blogs
 
 [LinkedIn PowerShell Power Users](https://www.linkedin.com/groups/140856/)
