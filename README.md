@@ -22,6 +22,8 @@ Just contact me on [Twitter.](https://twitter.com/HeikoBrenn)
 
 [Inside IT Automation Playlist](https://www.youtube.com/playlist?list=PLdBRPSN62VAQPrgOTNwp-cteJqyzAOVSC)
 
+[PowerShell User Group Rhein-Neckar Recordings](https://www.youtube.com/playlist?list=PLsSFFrQiByaO3ClymC6fpCw6aR1SoQn25)
+
 
 - ## Readings, Documentations, Books
 [Introduction to PowerShell](https://docs.microsoft.com/en-us/learn/modules/introduction-to-powershell/)
