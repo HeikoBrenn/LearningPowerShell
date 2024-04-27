@@ -20,7 +20,7 @@ Just contact me on [Twitter.](https://twitter.com/HeikoBrenn)
 
 [Learn PowerShell (TechThoughts)](https://www.youtube.com/watch?v=csuz7qSJv_Q&list=PL2j0_s2VJe2hzQuQyn6yfMS2olhhs4UnQ)
 
-[Inside IT Automation Playlist)](https://www.youtube.com/playlist?list=PLdBRPSN62VAQPrgOTNwp-cteJqyzAOVSC)
+[Inside IT Automation Playlist](https://www.youtube.com/playlist?list=PLdBRPSN62VAQPrgOTNwp-cteJqyzAOVSC)
 
 
 - ## Readings, Documentations, Books
