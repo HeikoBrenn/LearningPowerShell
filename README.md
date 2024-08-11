@@ -58,6 +58,8 @@ Just contact me on [Twitter.](https://twitter.com/HeikoBrenn)
 
 [Research Triangle PowerShell User Group](https://www.meetup.com/Research-Triangle-PowerShell-Users-Group/)
 
+[PowerShell User Grouo Rhein-Neckar](https://www.meetup.com/rhein-neckar-powershell-user-group)
+
 [New York PowerShell Meetup](https://www.meetup.com/NycPowershellMeetup/)
 
 [1.600 ready to use PowerShell scripts](https://github.com/scriptrunner/ActionPacks)
